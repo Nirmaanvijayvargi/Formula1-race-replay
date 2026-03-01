@@ -1,0 +1,20 @@
+# Web / Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# C / C++ / Executables
+*.exe
+*.o
+*.out
+
+# System Files
+.DS_Store
+Thumbs.db
