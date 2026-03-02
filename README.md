@@ -2,7 +2,7 @@
 
 </p>
 
-# Formula 1 Race & Qualifying Replay Simulation 🏁  
+# Formula 1 Race & Qualifying Replay Simulation 🏎️🏁  
 ### Deterministic Telemetry-Driven State Engine in Python ⚙️
 
 ---
